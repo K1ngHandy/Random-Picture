@@ -27,6 +27,10 @@ h1, h2 {
   padding-bottom: 2rem;
 }
 
+.App {
+  text-align: center;
+}
+
 header, footer {
   display: flex;
   flex-direction: column;
